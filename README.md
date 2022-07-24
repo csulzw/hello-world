@@ -6,7 +6,8 @@ my first repository
 -------
 > edit on branch readme2-edits
 I am lizhiwen ,a postgraduated student in guangzhou university.
-I have some good quailties
 1. I like reading , I can read the whole day.
-2. I am good at thinking.
+2. I am good at thinking. ## add qqqq
 3. my english is well.
+> edit on branch testpullrequest
+hello ,world.
